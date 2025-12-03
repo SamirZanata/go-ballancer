@@ -132,6 +132,9 @@ Resposta do servidor: 8003
 
 ## Tecnologias Utilizadas
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)
+
 - **Go 1.21+**: Linguagem de programação
 - **net/http**: Servidor HTTP nativo
 - **net/http/httputil**: Proxy reverso
@@ -142,6 +145,10 @@ Resposta do servidor: 8003
 Este projeto é de código aberto e está disponível para uso educacional.
 
 ## Autor
+
+**Samir Zanata Jr.**
+
+📧 Email: [samirzanata@icloud.com](mailto:samirzanata@icloud.com)
 
 Desenvolvido como parte do portfólio técnico, demonstrando conhecimento em:
 - Programação concorrente em Go
