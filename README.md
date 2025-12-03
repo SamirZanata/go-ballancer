@@ -1,5 +1,9 @@
 # Load Balancer Round Robin em Go
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="Go Gopher" width="200"/>
+</div>
+
 Um balanceador de carga Round Robin implementado em Go, demonstrando conceitos avançados de concorrência, proxy reverso e distribuição de requisições HTTP.
 
 ## Características
@@ -131,6 +135,14 @@ Resposta do servidor: 8003
 ```
 
 ## Tecnologias Utilizadas
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="Go Gopher" width="150"/>
+  <br/>
+  <img src="https://go.dev/images/go-logo-blue.svg" alt="Go Logo" width="200"/>
+</div>
+
+<br/>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)
